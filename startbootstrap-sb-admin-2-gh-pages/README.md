@@ -1,6 +1,6 @@
 # Edustrate (web application)
 
-Edustrate's web app is built on the Start Bootstrap template SB Admin 2. It is patr of a suite of educational tools which will helkp enhance education. The origram is not fully functioning, nor is it integrated with JQuery or SQL, but we are working on it, and that will be released in Alpha 1.2.0, due soon.
+Edustrate's web app is built on the Start Bootstrap template SB Admin 2. It is part of a suite of educational tools which will help enhance education. The program is not fully functioning, nor is it integrated with JQuery or SQL, but we are working on it, and that will be released in Alpha 1.2.0, due soon.
 
 ## About (Program)
 Edustrate is an educational program which allows teachers to register attendance, homework tasks, pupil rewards and other features in beta versions.
