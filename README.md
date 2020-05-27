@@ -9,7 +9,6 @@ This program has been designed and built by:
 * Aisling Strugnell
 * Bethan Cooling
 * Theo Fletcher
-* Zachary Jones
 
 You are permitted, under our Terms of Use, to use this code to develop applications that can work with Edustrate or addons for our marketplace (coming soon), but **you are not permitted, under any circumstance, to download this program and use it for your business, whether educational or not, without purchasing an official license from us.**
 
