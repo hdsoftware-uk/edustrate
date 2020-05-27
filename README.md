@@ -17,3 +17,5 @@ We do not at this time have a domain, but are in the process of purchasing one f
 
 ### Contributions
 This code is, of course, open source, however there are some purposes we do not wish Edustrate to be used for, such as those listed above in Paragraph 3. We welcome contributions and ideas from third-party contributors and internal contributors, but HODs or Development need to approve the pull request before it can be merged with the `master` branch. (You will need to create a new branch when you commit something. It might ask you whether it wants you to commit directly to `master`: do not! Create a new one, and call it something like `username-patch-1`. It will be deleted if it is approved, so please don't expect it to last forever!).
+
+&COPY; 2020 by HD Software, an imprint of Ablaze LLC. We do not own the right to the template on which the web app is built, so we have accredited them in our v1.1 release. All other rights reserved.
