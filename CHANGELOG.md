@@ -28,3 +28,8 @@
 ### v1.1.0.1
 * Added wireframe chat/feeds dashboard page
 * Relandscaped existing wireframe tasks function form v1.1
+
+### v1.1.2
+* Seperated .zip file into three folders : `icons`, `.child` and `.teacher`
+* Created new Teacher UI, with added features and functionality
+* Removed notification bar from all `.teacher` pages
