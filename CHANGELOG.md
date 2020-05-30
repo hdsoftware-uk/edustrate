@@ -66,4 +66,4 @@ edustrate [type: alpha, beta, stable, pre-release] v[number: 1.1.1.1].zip
 
 ### Bugs to be fixed & features to be added in `v1.1.2.1`
 * A bug has been identified in the `.zip` file attached in the release v1.1.2 on GitHub. It means that the `.teacher` partition does not exist, and the UI cannot be viewed. Due to a storage fault, we can't now access the  original UI, but we are redesigning it for the occasion.
-* We are now creating a parent UI in the zip file, in a new `.parent`partition.
+* We are now creating a parent UI in the zip file, in a new `.parent`partition. This will feature the ability to preview or view the child's dashboard remotely.
