@@ -1,3 +1,7 @@
+<kbd>
+  <img src="https://github.com/hdsoftware-uk/edustrate/raw/master/Edustrate.png" style="width: 200px;">
+</kbd>
+
 # Edustrate: the new way to learn.
 ### Open-Source code on GitHub
 
