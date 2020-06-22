@@ -1,4 +1,4 @@
-<kbd>
+<kbd style="background-color: #000000;">
   <img src="https://github.com/hdsoftware-uk/edustrate/raw/master/Edustrate.png" style="width: 200px;">
 </kbd>
 
