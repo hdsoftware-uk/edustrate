@@ -1,6 +1,5 @@
-<kbd style="background-color: #000000;">
-  <img src="https://github.com/hdsoftware-uk/edustrate/raw/master/Edustrate.png" style="width: 200px;">
-</kbd>
+### THIS REPOSITORY IS BEING DEPRECATED
+_We are migrating this to a new repository. The new framework will be built on Bulma.css and React.js and will be know as v0.3 and will continue as v0.3.1 etc._
 
 # Edustrate: the new way to learn.
 ### Open-Source code on GitHub
